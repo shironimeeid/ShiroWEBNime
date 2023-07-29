@@ -65,7 +65,7 @@ Disclaimer: Please note that the backend logic for comment, login, and validatio
 
 ### Installation
 ```bash
-https://github.com/shironimeeid/ShiroWEBNime
+git clone https://github.com/shironimeeid/ShiroWEBNime
 ```
 ```
 cd AnimeTrix
