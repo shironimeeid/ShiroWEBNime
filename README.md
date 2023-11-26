@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://github.com/shironimeeid/ShiroWEBNime">
-    <img src="" alt="Logo" width="120px" height="100px">
   </a>
 <br/>
   <h3 align="center">AShiroWEBNime</h3>
