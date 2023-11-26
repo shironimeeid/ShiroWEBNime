@@ -36,10 +36,7 @@
 
 ## About The Project
 
-![Screenshot from 2023-07-02 13-09-50](https://github.com/ShivaBhattacharjee/AnimeTrix/assets/95211406/86784c0d-96d6-41cb-87f2-81722f7172de)
-
-
-Anime Trix is an anime streaming / downloading site that offers a vast collection of anime shows for streaming and downloading. With a user-friendly interface, you can easily find your favorite anime shows and watch them in high-definition quality. Our platform is updated regularly with the latest anime episodes, so you can stay up-to-date with your favorite shows. Anime Trix is the go-to destination for anime lovers who want to watch their favorite shows anytime, anywhere.
+Anime is an anime streaming / downloading site that offers a vast collection of anime shows for streaming and downloading. With a user-friendly interface, you can easily find your favorite anime shows and watch them in high-definition quality. Our platform is updated regularly with the latest anime episodes, so you can stay up-to-date with your favorite shows. Anime Trix is the go-to destination for anime lovers who want to watch their favorite shows anytime, anywhere.
 
 ## Built With
 
@@ -50,7 +47,6 @@ AnimeTrix is built using ReactJs and vanilla Css
 * [Express Js](http://expressjs.com/)
 * [Mongo DB](https://www.mongodb.com/)
 
-Disclaimer: Please note that the backend logic for comment, login, and validation is currently not available as an open source. However, you can still utilize the API provided in the "constant.js" file to access and use the functions for login and other login related stuff. We make no guarantees or warranties as to the performance or suitability of this API for your specific needs, and we are not responsible for any damages or issues that may arise from its use. Use of this API is entirely at your own risk.
 
 ## Getting Started
 
@@ -68,7 +64,7 @@ Disclaimer: Please note that the backend logic for comment, login, and validatio
 git clone https://github.com/shironimeeid/ShiroWEBNime
 ```
 ```
-cd AnimeTrix
+cd ShiroWEBNime
 ```
 ```
 npm install
